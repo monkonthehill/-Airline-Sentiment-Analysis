@@ -1,6 +1,6 @@
 # Airline-Tweets-Visualization-Web-App
 Hosted Link:
-https://airline-tweets-visualization.herokuapp.com/
+https://airline-sentiment-analysis-2422043.streamlit.app/
 
 ## Output
 
